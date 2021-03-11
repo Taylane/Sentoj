@@ -1,0 +1,10 @@
+{
+    "name": "Sentoj",
+    "short_name": "Sentoj",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#fdfdfd",
+    "theme_color": "#890ef4",
+    "orientation": "portrait-primary",
+    "icons": []
+}
